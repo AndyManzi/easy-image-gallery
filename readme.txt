@@ -1,9 +1,8 @@
 === Easy Image Gallery ===
 Contributors: sumobi
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EFUPMPEZPGW7L
-Tags: image gallery, image, galleries, simple, easy, sumobi
+Tags: image gallery, image, galleries, simple, easy, sumobi, adopt-me
 Requires at least: 3.5
-Tested up to: 4.3.1
+Tested up to: 4.7
 Stable tag: 1.1.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
